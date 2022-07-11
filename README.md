@@ -12,7 +12,7 @@ January 1, 2014 [[1]](https://www.crunchbase.com/organization/chainlink)
 * Who are the founders of the company?
 
 Sergey Nazarov, Co-founder and CEO
-Steve Ellis, Co-founder and CTO
+Steve Ellis, Co-founder and CTO [[2]](https://craft.co/chainlink/executives0
 
 * How did the idea for the company (or project) come about?
 
@@ -49,6 +49,7 @@ Another competitor will not supplant Chainlink as the defacto oracle provider.
 
 
 [1] https://www.crunchbase.com/organization/chainlink
+[2] https://craft.co/chainlink/executives
 
 https://icodrops.com/chainlink/
 
