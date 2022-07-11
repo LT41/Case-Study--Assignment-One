@@ -45,9 +45,9 @@ Chainlink uses a network of decentralized oracles to reliably transfer data into
 ## Landscape
 
 Chainlink operates in the world of blockchains and smart contracts. It is effectively placing itself to be the sinew that stiches the on-chain world and the off-chain world together. It is core infrastructure, as vital to defi as any railroad or freeway is to our modern ways of life, and it is blockchain-agnostic[[5]](https://blog.chain.link/chainlinks-blockchain-agnostic-design/), meaning it works on Ethereum, on Binance Smart Chain, on Avalanche, and many others. Therefore whatever L1 becomes the dominant smart contract platform, Chainlink will be well positioned to be useful to it. Though the outlook for it is strong, its success still rests upon a few critical assumptions:
-*Smart contracts will be adopted for a wide range of financial products in the future.
-*Decentralized oracles will be the optimal way to feed these contracts the data that they need.
-*Another competitor will not overtake Chainlink as the defacto oracle provider. 
+* Smart contracts will be adopted for a wide range of financial products in the future.
+* Decentralized oracles will be the optimal way to feed these contracts the data that they need.
+* Another competitor will not overtake Chainlink as the defacto oracle provider. 
 
 
 ## Results
