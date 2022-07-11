@@ -20,7 +20,7 @@ Steve Ellis, Co-founder and CTO [[2]](https://craft.co/chainlink/executives)
 * How did the idea for the company (or project) come about?
 
 
-Developers recognized the limitations of blockchains inability to "see", or be aware of events that happened off the chain.
+Developers recognized the limitations of blockchains' inability to "see", or be aware of events that happened off the chain.
 
 ## Business Activities
 
