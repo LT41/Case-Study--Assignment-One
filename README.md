@@ -1,4 +1,4 @@
-# Case-Study--Assignment-One
+## Case-Study--Assignment-One
 
 Case Study: Chainlink 
 * What is the name of the company?
@@ -44,11 +44,18 @@ Chainlink uses a network of decentralized oracles to reliably transfer data into
 [[4]](Images/Chainlink.png)
 
 Landscape
-Chainlink operates in the world of blockchains and smart contracts. It is effectively placing itself to be the sinew that stiches the on-chain world and the off-chain world together. It is core infrastructure, as vital to defi as any railroad or freeway is to our modern ways of life, and it is blockchain-agnostic[source], meaning it works on Ethereum, on Binance Smart Chain, on Avalanche, and many others. Therefore whatever L1 becomes the dominant smart contract platform, Chainlink will be well positioned to be useful to it. Though the outlook for it is strong, its success still rests upon a few critical assumptions:
+Chainlink operates in the world of blockchains and smart contracts. It is effectively placing itself to be the sinew that stiches the on-chain world and the off-chain world together. It is core infrastructure, as vital to defi as any railroad or freeway is to our modern ways of life, and it is blockchain-agnostic[[5]](https://blog.chain.link/chainlinks-blockchain-agnostic-design/), meaning it works on Ethereum, on Binance Smart Chain, on Avalanche, and many others. Therefore whatever L1 becomes the dominant smart contract platform, Chainlink will be well positioned to be useful to it. Though the outlook for it is strong, its success still rests upon a few critical assumptions:
 Smart contracts will be adopted for a wide range of financial products in the future.
 Decentralized oracles will be the optimal way to feed these contracts the data that they need.
 Another competitor will not supplant Chainlink as the defacto oracle provider. 
 
+
+#Results
+
+Chainlink was founded  on January 1st, 2014, launched its ICO on September 14th, 2017, and went live on its mainnet on May, 30th, 2019 [[6]](https://blog.chain.link/three-years-on-mainnet/). Since going live, it has been used by a large number of defi protocols and allowed them to provide more secure services to their users. Defi growth has exploded in the last few years and many of the leading protocols could not function in their capacity without a data provider like chainlink. There is little doubt that a portion of the rapid growth of defi is directly attributable to the development of Chainlink. 
+
+![](Images/ChainlinkResults.png)
+[[7]](Images/ChainlinkResults.png)
 
 
 
@@ -60,6 +67,8 @@ Another competitor will not supplant Chainlink as the defacto oracle provider.
 
 [4] https://file.publish.vn/amberblocks/2021-09/chainlink-1-1631632136702.png
 
-https://icodrops.com/chainlink/
+[5] https://blog.chain.link/chainlinks-blockchain-agnostic-design/
 
-https://blog.chain.link/chainlinks-blockchain-agnostic-design/
+[6] https://blog.chain.link/three-years-on-mainnet/
+
+[7] https://blog.chain.link/wp-content/uploads/2021/12/The-Year-in-Chainlink-2021-Infographic-1024x576.png
