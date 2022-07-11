@@ -30,8 +30,7 @@ Chainlink has been endeavouring to solve the "oracle problem"--the problem that 
 
 The problem goes beyond the necessity to connect these contracts to off-chain data feeds, however. In practice, it becomes clear that the security of such systems is paramount, especially when money is involved. Because of the natural security properties of blockchains, smart contracts themselves are immutable and tamperproof. They will exist and execute exactly as they are written. A bad actor who is attempting to sabotage such a contract would be unsuccessful, so they may then turn and attack the next weak link in the system, the oracle feeding the contract data. 
 Unless the oracles connected to the smart contract are as secure and robust as the smart contracts itself, the whole point of using a blockchain to execute secure tamperproof smart contracts is rendered pointless. A bad actor can merely gain control of the data feed and thus control the outcome of the smart contract's execution.
-This is the true nature of the so-called "oracle problem". Solving it unlocks real word utility to smart contracts and opens doors to an incredibly vast potential. 
-
+This is the true nature of the so-called "oracle problem". Solving it unlocks real world utility for smart contracts and opens doors to an incredibly vast potential market. 
 
 There are many intended customers for Chainlink's oracle network. They range from companies building on blockchains to create decentralized finance (defi) products, to insurance companies, mortgage companies, even brokers and investment bankers on Wall Street. 
 
