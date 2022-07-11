@@ -60,7 +60,7 @@ Chainlink was founded  on January 1st, 2014, launched its ICO on September 14th,
 
 Chainlink, right now, is used primarily to connect defi protocols to their appropriate data feeds. In order for them to continue to grow, a few things need to happen. Though I am far from qualified to offer them advise, what I would hope they will do is continue to try and build inroads to legacy financial systems that operate off-chain and currently use centralized servers to provide their services. Defi needs to onboard these legacy systems and I would encourage the Chainlink team to continue and try and sell the old guard on the new idea of smart contracts. 
 
-Maybe one day the NYSE will be operating on an L1. Maybe one day our paychecks will be automatically deposited into our bank accounts via a smart contract. Maybe one day government aid will be dispersed using blockchain and stablecoins. If this future is ever going to be realized, one thing is certain: all of those services will need some sort of oracle data provider, and right now Chainlink remains perhaps the strongest choice in that field. 
+Maybe one day the NYSE will be operating on an L1. Maybe one day our paychecks will be automatically deposited into our bank accounts via smart contract. Maybe one day government aid will be dispersed using blockchain and stablecoins. If this future is ever going to be realized, one thing is certain: all of those services will need some sort of oracle data provider, and right now Chainlink remains perhaps the strongest choice in that field. 
 
 [1] https://www.crunchbase.com/organization/chainlink
 
