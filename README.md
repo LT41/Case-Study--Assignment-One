@@ -41,6 +41,7 @@ Chainlink has a vast technological moat around them. Their solution to the oracl
 Chainlink uses a network of decentralized oracles to reliably transfer data into smart contracts. For example, a lending smart contract may need access to the price of Bitcoin in order to determine liquidation thresholds for their users. Chainlink will access multiple sources of bitcoin price data, pulling it from many different exchanges and websites in real time. It then aggregates that data into an average price on chain, and feeds that average to the lending contract. Pulling from multiple sources ensures that if one API is attacked or is malfunctioning, the smart contract will still have an accurate feed to the price of data and not liquidate positions that it shouldn't. Insecure oracles are a prime target for exploits in the world of defi, and when there is limited access to insurance to protect users from such attacks, the stakes are often very high. 
 
 ![](Images/Chainlink.png)
+[[4]](Images/Chainlink.png)
 
 Landscape
 Chainlink operates in the world of blockchains and smart contracts. It is effectively placing itself to be the sinew that stiches the on-chain world and the off-chain world together. It is core infrastructure, as vital to defi as any railroad or freeway is to our modern ways of life, and it is blockchain-agnostic[source], meaning it works on Ethereum, on Binance Smart Chain, on Avalanche, and many others. Therefore whatever L1 becomes the dominant smart contract platform, Chainlink will be well positioned to be useful to it. Though the outlook for it is strong, its success still rests upon a few critical assumptions:
@@ -52,8 +53,12 @@ Another competitor will not supplant Chainlink as the defacto oracle provider.
 
 
 [1] https://www.crunchbase.com/organization/chainlink
+
 [2] https://craft.co/chainlink/executives
+
 [3] https://icodrops.com/chainlink/
+
+[4] Images/Chainlink.png
 
 https://icodrops.com/chainlink/
 
