@@ -12,6 +12,7 @@ January 1, 2014 [[1]](https://www.crunchbase.com/organization/chainlink)
 * Who are the founders of the company?
 
 Sergey Nazarov, Co-founder and CEO
+
 Steve Ellis, Co-founder and CTO [[2]](https://craft.co/chainlink/executives)
 
 * How did the idea for the company (or project) come about?
