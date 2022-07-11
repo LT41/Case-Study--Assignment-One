@@ -58,7 +58,7 @@ Another competitor will not supplant Chainlink as the defacto oracle provider.
 
 [3] https://icodrops.com/chainlink/
 
-[4] Images/Chainlink.png
+[4] https://file.publish.vn/amberblocks/2021-09/chainlink-1-1631632136702.png
 
 https://icodrops.com/chainlink/
 
